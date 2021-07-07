@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/hand-cycle-web.svg)](https://gitHub.com/ieeemysight4rehab/hand-cycle-web/releases/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ieeemysight4rehab/hand-cycle-web/graphs/commit-activity)
-[![HitCount](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-web.svg)](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-web)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieeemysight4rehab%2Fhand-cycle-web&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Getting Started
 
